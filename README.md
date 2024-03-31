@@ -47,11 +47,3 @@ This repository contains the source code for an Online Examination System develo
 
 ### Contributors:
 - SHREEAMBLE - shreeamble.003@gmail.com
-- 
-
-### Acknowledgments:
-Special thanks to [anyone or any organization you'd like to acknowledge].
-
----
-
-Feel free to customize this README according to your project's specific details and requirements.
